@@ -4,4 +4,5 @@ WorkfroceEnforcement for Attendance Report using Swift 3, Xcode 8 is required to
 
 ![Imgur Image](https://i.imgur.com/GK7SvUj.gif)
 
+If gif not shown : https://i.imgur.com/GK7SvUj.gif
 
